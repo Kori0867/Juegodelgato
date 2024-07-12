@@ -1,6 +1,6 @@
-# gatasos
+# Juego del gato 
 
-A new Flutter project.
+proyecto remedial segunda unidad milton
 
 ## Getting Started
 
